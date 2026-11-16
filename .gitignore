@@ -1,0 +1,23 @@
+# Database files
+*.sql
+*.sql.gz
+*.sqlite
+*.db
+
+# IDE
+.idea/
+
+# Operating System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Logs
+*.log
+error_log
